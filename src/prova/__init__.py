@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from prova!")
+    print("Hello from Paolo!")
